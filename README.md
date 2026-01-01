@@ -1,4 +1,4 @@
-### Hi!👋  🦆
+### Hi!👋 
 
 
 ![](https://komarev.com/ghpvc/?username=dscao&color=green)
